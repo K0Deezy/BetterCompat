@@ -7,7 +7,7 @@ Datapack was tested on 1.20.1 forge.
 
 - [x] Mekanism  
 - [x] Mutant Monsters  
-- [ ] Dungeons now loading
+- [ ] Dungeon Now Loading
 - More mods coming soon!
 
 ## 💡 Contributing
