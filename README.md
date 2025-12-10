@@ -1,6 +1,7 @@
 # ⚔️ BetterCompat Datapack
 
-Extend **BetterCombat** to work with popular mods that were previously incompatible.  
+Extend **BetterCombat** to work with popular mods that were previously incompatible. 
+Datapack was tested on 1.20.1 forge.
 
 ## ✅ Supported Mods
 
