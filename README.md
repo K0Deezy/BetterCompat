@@ -1,13 +1,12 @@
 # ⚔️ BetterCompat Datapack
 
-Extend **BetterCombat** to work with popular mods that were previously incompatible. 
-Datapack was tested on 1.20.1 forge.
+Extend **BetterCombat** to work with popular mods that were previously incompatible.  
 
 ## ✅ Supported Mods
 
 - [x] Mekanism  
 - [x] Mutant Monsters  
-- [ ] Dungeon Now Loading
+- [ ] Dungeons now loading
 - More mods coming soon!
 
 ## 💡 Contributing
