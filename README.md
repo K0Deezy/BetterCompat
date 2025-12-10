@@ -4,9 +4,9 @@ Extend **BetterCombat** to work with popular mods that were previously incompati
 
 ## ✅ Supported Mods
 
-- [x] Mekanism  
-- [x] Mutant Monsters  
-- [x] Dungeons now loading
+- [x] Mekanism  (Meka-tool, Atomic dissasembler)
+- [x] Mutant Monsters  (Endersoul hand)
+- [x] Dungeons now loading  (Life stealer)
 - More mods coming soon!
 
 ## 💡 Contributing
