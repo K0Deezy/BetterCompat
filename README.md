@@ -7,11 +7,12 @@ Extend **BetterCombat** to work with popular mods that were previously incompati
 - [x] Mekanism  
 - [x] Mutant Monsters  
 - [ ] Dungeons now loading
-More coming soon!
+- More mods coming soon!
 
 ## 💡 Contributing
 
-- Pull requests are welcome.  
+- Pull requests are welcome.
+- If theres any mod thats not working with BetterCombat by default you can report it at: https://forms.gle/6hp6uMcuhfGuu2yd9
 
 ## 📝 License
 
